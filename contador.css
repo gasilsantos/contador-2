@@ -1,0 +1,12 @@
+body{
+    color: rgb(206, 44, 15);
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    padding:5px;
+    color: blueviolet;
+    background-color: burlywood;
+    border-radius: 5px;
+}
